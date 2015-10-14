@@ -20,7 +20,3 @@ C:\Users\crf6496\Documents\GameFPS\Temp\bin\Debug\UnityEngine.UI.xml
 C:\Users\crf6496\Documents\GameFPS\Temp\bin\Debug\UnityEngine.Networking.xml
 C:\Users\crf6496\Documents\GameFPS\obj\Debug\Assembly-CSharp.dll
 C:\Users\crf6496\Documents\GameFPS\obj\Debug\Assembly-CSharp.pdb
-C:\Users\crf6496\Documents\GameFPS\Temp\bin\Debug\UnityEngine.Advertisements.dll
-C:\Users\crf6496\Documents\GameFPS\Temp\bin\Debug\UnityEngine.Analytics.dll
-C:\Users\crf6496\Documents\GameFPS\Temp\bin\Debug\UnityEngine.Advertisements.xml
-C:\Users\crf6496\Documents\GameFPS\Temp\bin\Debug\UnityEngine.Analytics.xml
