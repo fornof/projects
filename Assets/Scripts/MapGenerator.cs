@@ -140,7 +140,18 @@ public class MapGenerator : MonoBehaviour {
         {
             return !c1.Equals(c2);
         }
-        
+        public override bool Equals(object obj) {
+
+            return ((Coord)obj).x == this.x &&
+                ((Coord)obj).y == this.y;
+        }
+
+        public override int GetHashCode()
+        {
+            return this.x *this.y;
+         
+        }
+
 
     }
 	
